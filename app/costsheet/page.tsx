@@ -1,4 +1,4 @@
-import DPC from "./_components/DPC/day_package_container";
+import DPC from "./_components/dpc/day_package_container";
 import { Button } from "@/components/ui/button";
 
 export default function CostsheetPage() {

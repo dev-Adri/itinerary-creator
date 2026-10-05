@@ -1,5 +1,8 @@
 import "./day_package_style.css";
 
+// todo: ask agent to convert the css to tailwindcss
+// todo: download a tailwindcss autocomplete extensions for vscode
+
 export default function DPC() {
     return (
         <fieldset className="outline-dpc">

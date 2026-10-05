@@ -10,12 +10,12 @@ export default function CostsheetPage() {
                         Add Date
                     </Button>
                 </div>
-                <div className="h-[50px]"></div>
+                <div className="h-12.5"></div>
                 <DPC></DPC>
             </div>
             <div
                 id="cost-breakdown"
-                className="min-h-screen w-90 shadow-xl"
+                className="min-h-screen w-80 shadow-xl"
             ></div>
         </div>
     );

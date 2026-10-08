@@ -5,11 +5,7 @@ export default function CostsheetPage() {
     return (
         <div className="h-screen flex">
             <div id="packages-section" className="flex-1 overflow-y-auto">
-                <div className="">
-                    <Button className="font-mont font-extrabold w-28 h-10">
-                        Add Date
-                    </Button>
-                </div>
+                <div className=""></div>
                 <div className="h-12.5"></div>
                 <DPC></DPC>
             </div>
